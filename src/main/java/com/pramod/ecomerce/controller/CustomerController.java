@@ -1,4 +1,4 @@
-package com.pramod.Ecomerce.controller;
+package com.pramod.ecomerce.controller;
 
 public class CustomerController {
 }

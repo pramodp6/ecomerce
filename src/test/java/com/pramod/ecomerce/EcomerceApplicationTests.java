@@ -1,4 +1,4 @@
-package com.pramod.Ecomerce;
+package com.pramod.ecomerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

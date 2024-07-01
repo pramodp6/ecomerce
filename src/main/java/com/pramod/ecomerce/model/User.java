@@ -1,4 +1,4 @@
-package com.pramod.Ecomerce.model;
+package com.pramod.ecomerce.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
